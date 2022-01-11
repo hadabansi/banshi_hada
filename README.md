@@ -1,0 +1,2 @@
+# banshi_hada
+ template
